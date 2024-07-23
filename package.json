@@ -1,0 +1,15 @@
+{
+  "name": "express-in-one-video",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000X\u0000P\u0000R\u0000E\u0000S\u0000S\u0000_\u0000I\u0000N\u0000-\u0000_\u0000O\u0000N\u0000E\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
